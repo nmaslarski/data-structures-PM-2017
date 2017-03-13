@@ -109,7 +109,6 @@ int main()
     if(one>two)
     {
         cout<<one.getName()<<endl;
-
     }
     else
     {
